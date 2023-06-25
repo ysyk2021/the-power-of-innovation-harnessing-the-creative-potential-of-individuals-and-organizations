@@ -1,5 +1,4 @@
-Chapter 4: Creating a Culture of Innovation: Providing Resources and Support for Innovation
-===========================================================================================
+# Providing Resources and Support for Innovation
 
 Creating a culture of innovation within an organization requires providing resources and support that enable individuals and teams to experiment, develop new ideas, and take risks. In this chapter, we will explore strategies for providing resources and support for innovation.
 

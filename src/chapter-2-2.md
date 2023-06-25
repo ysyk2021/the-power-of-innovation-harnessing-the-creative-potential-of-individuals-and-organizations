@@ -1,5 +1,4 @@
-Chapter 2: Overview of Innovation: The Impact of Innovation on Organizational Performance
-=========================================================================================
+# The Impact of Innovation on Organizational Performance
 
 Innovation is a critical component of driving growth and success within an organization. In this chapter, we will explore the impact of innovation on organizational performance.
 

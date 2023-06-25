@@ -1,5 +1,4 @@
-Chapter 3: Understanding Creativity in Innovation: Techniques for Understanding Creativity in Innovation
-========================================================================================================
+# Techniques for Understanding Creativity in Innovation
 
 Understanding creativity is critical to driving innovation within an organization. In this chapter, we will explore techniques for understanding creativity in innovation.
 

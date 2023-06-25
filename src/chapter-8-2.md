@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Innovation Effectiveness: Establishing Key Performance Indicators (KPIs)
-============================================================================================================
+# Establishing Key Performance Indicators (KPIs)
 
 Measuring and evaluating innovation effectiveness is critical to ensuring that innovative ideas are driving growth and success within an organization. In this chapter, we will explore the importance of establishing key performance indicators (KPIs) for measuring and evaluating innovation effectiveness.
 

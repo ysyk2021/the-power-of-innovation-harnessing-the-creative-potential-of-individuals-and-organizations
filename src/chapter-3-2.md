@@ -1,5 +1,4 @@
-Chapter 3: Understanding Creativity in Innovation: Identifying Key Elements of Creativity
-=========================================================================================
+# Identifying Key Elements of Creativity
 
 Creativity is a critical component of innovation, as it drives the generation of new ideas and solutions. In this chapter, we will identify key elements of creativity that are essential to driving innovation within an organization.
 

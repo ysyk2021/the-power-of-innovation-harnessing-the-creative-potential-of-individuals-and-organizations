@@ -1,5 +1,4 @@
-Chapter 6: Promoting Collaborative Innovation: Using Design Thinking and Prototyping
-====================================================================================
+# Using Design Thinking and Prototyping
 
 Promoting collaborative innovation is critical to unlocking the full creative potential of individuals and organizations. Using design thinking and prototyping can help organizations develop new and innovative solutions by involving stakeholders in every step of the innovation process.
 

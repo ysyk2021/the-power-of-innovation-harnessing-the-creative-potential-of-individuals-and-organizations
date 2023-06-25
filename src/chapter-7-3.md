@@ -1,5 +1,4 @@
-Chapter 7: Managing Innovation Projects: Applying Agile Principles to Innovation
-================================================================================
+# Applying Agile Principles to Innovation
 
 Managing innovation projects can be complex and challenging, as they often involve uncertainty, experimentation, and risk-taking. In this chapter, we will explore how to apply agile principles to innovation projects to increase their effectiveness and success.
 

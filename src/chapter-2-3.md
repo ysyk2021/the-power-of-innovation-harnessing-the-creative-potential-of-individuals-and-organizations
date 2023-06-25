@@ -1,5 +1,4 @@
-Chapter 2: Overview of Innovation: Techniques for Overcoming Common Challenges in Innovation
-============================================================================================
+# Techniques for Overcoming Common Challenges in Innovation
 
 Innovation is critical to driving growth and success within an organization, but it can also be challenging. In this chapter, we will provide an overview of innovation and techniques for overcoming common challenges in the innovation process.
 

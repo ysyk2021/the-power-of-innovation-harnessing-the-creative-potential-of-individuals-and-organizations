@@ -1,5 +1,4 @@
-Chapter 7: Managing Innovation Projects: Establishing Project Goals and Milestones
-==================================================================================
+# Establishing Project Goals and Milestones
 
 Managing innovation projects is critical to ensuring that innovative ideas are successfully implemented and drive growth and success within an organization. In this chapter, we will explore the importance of establishing project goals and milestones.
 

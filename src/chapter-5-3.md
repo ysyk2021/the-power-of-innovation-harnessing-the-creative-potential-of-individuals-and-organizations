@@ -1,5 +1,4 @@
-Chapter 5: Encouraging Individual Creativity: Fostering a Risk-Taking Mindset
-=============================================================================
+# Fostering a Risk-Taking Mindset
 
 Encouraging individual creativity is essential to driving innovation within an organization. However, individuals may be hesitant to take risks and try new approaches. In this chapter, we will explore techniques for fostering a risk-taking mindset.
 

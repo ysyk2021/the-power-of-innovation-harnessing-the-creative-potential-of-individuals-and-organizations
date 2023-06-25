@@ -1,5 +1,4 @@
-Chapter 6: Promoting Collaborative Innovation: Building Cross-Functional Teams
-==============================================================================
+# Building Cross-Functional Teams
 
 Collaborative innovation involves bringing together individuals from different backgrounds and perspectives to generate new ideas, solve complex problems, and drive growth within an organization. In this chapter, we will explore building cross-functional teams as a technique for promoting collaborative innovation.
 
