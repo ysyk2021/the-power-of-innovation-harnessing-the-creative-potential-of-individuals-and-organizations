@@ -10,7 +10,4 @@ Whether you're an entrepreneur, business leader, or aspiring innovator, this boo
 
 Ultimately, "The Power of Innovation" is a must-read for anyone who wants to unleash their creative potential and become a game-changer in their field. By learning to harness the power of innovation, readers can unlock new opportunities, create value, and make a meaningful difference in the world.
 
-
-
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
