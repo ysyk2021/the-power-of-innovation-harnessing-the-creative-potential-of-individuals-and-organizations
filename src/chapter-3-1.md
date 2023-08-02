@@ -1,4 +1,4 @@
-Chapter 5: Techniques for Understanding Creativity in Innovation
+Techniques for Understanding Creativity in Innovation
 ================================================================
 
 Innovation is fueled by creativity---the ability to generate new ideas, envision possibilities, and think outside the box. Understanding creativity is crucial for harnessing its power in innovation. This chapter explores various techniques that can help individuals and organizations gain insights into creativity and leverage it to drive impactful innovation.

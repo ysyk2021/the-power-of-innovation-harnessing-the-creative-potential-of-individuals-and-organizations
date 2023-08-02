@@ -1,4 +1,4 @@
-Chapter 10: Techniques for Measuring and Evaluating Innovation Effectiveness
+Techniques for Measuring and Evaluating Innovation Effectiveness
 ============================================================================
 
 Measuring and evaluating innovation effectiveness is crucial for organizations to understand the impact of their innovative efforts and make informed decisions. In this chapter, we will explore various techniques that can be used to assess the effectiveness of innovation initiatives.
