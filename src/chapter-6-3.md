@@ -1,5 +1,3 @@
-Using Design Thinking and Prototyping
-==============================================
 
 Design thinking and prototyping are powerful tools that can guide individuals and organizations through the process of innovation. In this chapter, we will explore how design thinking and prototyping can be utilized to unlock creative potential, solve complex problems, and bring innovative ideas to life.
 

@@ -1,5 +1,3 @@
-Chapter 9: Sustaining Innovation Efforts
-========================================
 
 Innovation is critical to driving growth and success within an organization. However, sustaining innovation efforts over time can be challenging. In this chapter, we will explore techniques for sustaining innovation efforts, continuous learning and improvement, and adapting to changes in the business landscape.
 

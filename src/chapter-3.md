@@ -1,5 +1,3 @@
-Chapter 3: Understanding Creativity in Innovation
-=================================================
 
 Creativity is a critical component of innovation, as it drives the generation of new ideas and solutions. In this chapter, we will explore techniques for understanding creativity in innovation, identify key elements of creativity, and examine the relationship between creativity and innovation.
 

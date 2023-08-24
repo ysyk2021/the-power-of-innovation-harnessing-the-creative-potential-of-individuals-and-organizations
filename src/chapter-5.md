@@ -1,4 +1,3 @@
-# Chapter 5: Encouraging Individual Creativity
 
 ## Techniques for Encouraging Individual Creativity
 

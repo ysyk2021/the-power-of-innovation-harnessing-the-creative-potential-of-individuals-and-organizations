@@ -1,4 +1,3 @@
-# Chapter 4: Creating a Culture of Innovation
 
 In the book, we explore the importance of creating a culture of innovation within teams and organizations. This chapter focuses on the key techniques and strategies that can be implemented to foster a culture of innovation, including establishing a clear vision and strategy and providing resources and support for innovation.
 

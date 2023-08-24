@@ -1,5 +1,3 @@
-Techniques for Managing Innovation Projects
-====================================================
 
 Managing innovation projects requires a unique set of techniques and approaches to ensure success. In this chapter, we will explore effective strategies for managing innovation projects that harness the creative potential of individuals and organizations. These techniques aim to streamline processes, promote collaboration, and maximize the chances of achieving innovative outcomes.
 

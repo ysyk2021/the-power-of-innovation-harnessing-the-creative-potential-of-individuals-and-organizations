@@ -1,5 +1,3 @@
-Chapter 8: Measuring and Evaluating Innovation Effectiveness
-============================================================
 
 Innovation is a critical component of success for both individuals and organizations. To ensure that innovation efforts are effective, it is important to measure and evaluate their impact. In this chapter, we will explore techniques for measuring and evaluating innovation effectiveness.
 

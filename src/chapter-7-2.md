@@ -1,5 +1,3 @@
-Establishing Project Goals and Milestones
-==================================================
 
 Setting clear goals and milestones is essential for effectively harnessing the creative potential of individuals and organizations in the pursuit of innovation. This chapter explores the significance of establishing project goals and milestones, and provides guidance on creating a roadmap for success.
 

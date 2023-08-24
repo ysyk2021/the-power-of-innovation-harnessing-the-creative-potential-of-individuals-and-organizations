@@ -1,5 +1,3 @@
-Chapter 7: Managing Innovation Projects
-=======================================
 
 Managing innovation projects is a critical aspect of harnessing the creative potential of individuals and organizations. Effective management of innovation projects requires a combination of techniques, including establishing clear project goals and milestones and applying agile principles to innovation.
 

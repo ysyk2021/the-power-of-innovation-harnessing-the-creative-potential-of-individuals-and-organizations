@@ -1,5 +1,3 @@
-Providing Resources and Support for Innovation
-=======================================================
 
 Innovation is critical for organizations to stay competitive and thrive in today's rapidly changing business landscape. To foster a culture of innovation, it is essential to provide the necessary resources and support for individuals and teams to explore new ideas, experiment, and turn those ideas into tangible outcomes. This chapter explores various strategies and approaches for providing resources and support to drive innovation within organizations.
 

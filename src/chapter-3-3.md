@@ -1,5 +1,3 @@
-Exploring the Relationship Between Creativity and Innovation
-=====================================================================
 
 Creativity and innovation are closely interconnected, with creativity serving as a fundamental building block for innovation. This chapter delves into the relationship between creativity and innovation, highlighting their distinct yet interdependent roles in driving individual and organizational success.
 

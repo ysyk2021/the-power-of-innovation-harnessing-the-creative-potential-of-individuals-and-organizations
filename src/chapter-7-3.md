@@ -1,5 +1,3 @@
-Applying Agile Principles to Innovation
-================================================
 
 Agile methodologies have revolutionized project management by providing a flexible and iterative approach to product development. This chapter explores the application of agile principles in the context of innovation, enabling organizations to harness the creative potential of individuals and drive successful outcomes.
 

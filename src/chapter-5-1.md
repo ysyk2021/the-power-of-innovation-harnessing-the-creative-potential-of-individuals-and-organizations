@@ -1,5 +1,3 @@
-Techniques for Encouraging Individual Creativity
-=========================================================
 
 Individual creativity is a powerful driver of innovation within organizations. This chapter explores various techniques that can be employed to encourage and nurture individual creativity, unlocking the full creative potential of individuals.
 

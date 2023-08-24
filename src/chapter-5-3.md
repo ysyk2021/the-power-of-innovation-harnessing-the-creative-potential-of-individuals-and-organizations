@@ -1,5 +1,3 @@
-Fostering a Risk-Taking Mindset
-========================================
 
 Innovation and risk-taking go hand in hand. To harness the creative potential of individuals and organizations, it is essential to foster a risk-taking mindset. This chapter explores strategies for creating an environment that encourages calculated risks and supports individuals and organizations in embracing uncertainty and exploring new possibilities.
 
